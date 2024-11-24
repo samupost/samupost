@@ -26,7 +26,6 @@
 <div align="left">
   <a href="https://www.microsoft.com/en-usr/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/powerbi.png"  width="36" height="36" alt="Microsoft Power BI" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/fabric.png"  width="36" height="36" alt="Microsoft Fabric" /></a>
-  <a href="https://www.sqlbi.com/tools/tabular-editor" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/tabular-editor.png"  width="36" height="36" alt="Tabular Editor" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/sql-server.png"  width="36" height="36" alt="Microsoft SQL Server" /></a>
   <a href="https://portal.azure.com" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/azure.png"  width="36" height="36" alt="Microsoft Azure" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
